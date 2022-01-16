@@ -1,5 +1,5 @@
-name: flutter_complete_guide
-description: A new Flutter project.
+name: kexpenses
+description: flutter tutorial for an expenses app.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -19,11 +19,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.15.8
+  intl: ^0.17.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.2
+  cupertino_icons: ^1.0.4
 
 dev_dependencies:
   flutter_test:
